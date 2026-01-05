@@ -1,9 +1,9 @@
 # Stone_Paper_Scissor
-🪨📄✂️ Stone Paper Scissors – Python Game
+#✂️ Stone Paper Scissors – Python Game
 
-📌 Description
+#📌 Description
 
-This is a simple Stone Paper Scissors game built using Python.
+###This is a simple Stone Paper Scissors game built using Python.
 The player competes against the computer, which makes a random choice each round.
 The game then determines the winner based on the classic rules.
 
